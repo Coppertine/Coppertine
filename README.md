@@ -2,7 +2,7 @@
 
 Second year university student at QUT.
 
-Technical Lead for [Oceania Build Team](https://github.com/bte-oceania)
+Technical / Project Lead for [Oceania Build Team](https://github.com/bte-oceania)
 
 - 🔭 I’m currently working on Oceania Build Team Website
 - 🌱 I’m currently learning UX design and backend api's for websites.
