@@ -3,6 +3,7 @@
 Second year university student at QUT.
 
 Technical / Project Lead for [Oceania Build Team](https://github.com/bte-oceania)
+
 Front End developer for [BuildTheEarth](https://github.com/buildtheearth) 
 
 - 🔭 I’m currently working on BuildTheEarth front end.
