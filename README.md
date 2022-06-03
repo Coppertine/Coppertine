@@ -1,9 +1,6 @@
 <h1>Coppertine</h1>
 
-Second year university student at QUT.
-
-Technical / Project Lead for [Oceania Build Team](https://github.com/bte-oceania)
-
+Third year university student at QUT.
 
 - 🔭 I’m currently volenteering different jobs.
 - 🌱 I’m currently learning UX design and backend api's for websites.
