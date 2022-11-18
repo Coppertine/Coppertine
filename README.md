@@ -1,6 +1,6 @@
 <h1>Coppertine</h1>
 
-Second year university student at QUT.
+Third year university student at QUT.
 
 - 🔭 I’m currently volenteering different jobs.
 - 🌱 I’m currently learning UX design and backend api's for websites.
