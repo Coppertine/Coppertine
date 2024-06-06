@@ -1,7 +1,5 @@
 <h1>Coppertine</h1>
 
-Fourth year university student at QUT.
-
 - 🔭 I’m currently volenteering different jobs.
 - 🌱 I’m currently learning UX design and ~~backend api's~~ for websites.
 - 📫 How to reach me: Discord (`coppertine`)
